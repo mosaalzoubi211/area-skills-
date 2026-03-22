@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597918726130",
+    "project_id": "area-skills",
+    "storage_bucket": "area-skills.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597918726130:android:1a9d01409ff070d2e69d6b",
+        "android_client_info": {
+          "package_name": "com.example.plz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATR1BW5jmxw0i_aHfUxWdVJHQd_YWu3wE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
